@@ -1,0 +1,25 @@
+.list{
+	border:2px solid black;
+	height:540px;
+	width:250px;
+	overflow-y:scroll;
+}
+.video{
+	border:2px solid black;
+	height:540px;
+	width:800px;
+	display:flex;
+	margin-left:50px;
+	
+}
+.row{
+display:flex;
+}
+ul{
+list-style-type:none;
+padding:0;
+}
+img{
+	height:100px;
+	width:100%;
+}
